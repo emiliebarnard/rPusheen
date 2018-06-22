@@ -1,0 +1,167 @@
+.flair {
+    background: url(%%spritesheet%%) no-repeat -9999px;
+    border: 0;
+    padding: 0;
+}
+
+.flair-bakerPusheen {
+    width: 30px;
+    height: 30px;
+    background-position: 0 0;
+}
+
+.flair-cheek {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -30px;
+}
+
+.flair-cookiePusheen {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -60px;
+}
+
+.flair-coolPusheen {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -90px;
+}
+
+.flair-cupcakePusheen {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -120px;
+}
+
+.flair-cupidPusheen {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -150px;
+}
+
+.flair-donutPusheen {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -180px;
+}
+
+.flair-dragonPusheen {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -210px;
+}
+
+.flair-fancyPusheen {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -240px;
+}
+
+.flair-heartPusheen {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -270px;
+}
+
+.flair-keyboardPusheen {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -300px;
+}
+
+.flair-mermaidPusheen {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -330px;
+}
+
+.flair-modPusheenicorn {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -360px;
+}
+
+.flair-pastelPusheens {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -390px;
+}
+
+.flair-pegasheen {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -420px;
+}
+
+.flair-pip {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -450px;
+}
+
+.flair-pugsheen {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -480px;
+}
+
+.flair-pumpkinPusheen {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -510px;
+}
+
+.flair-pusheen {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -540px;
+}
+
+.flair-pusheenicorn {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -570px;
+}
+
+.flair-pusheenosaurus {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -600px;
+}
+
+.flair-ricePusheen {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -630px;
+}
+
+.flair-sloth {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -660px;
+}
+
+.flair-stormy {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -690px;
+}
+
+.flair-sundaePusheen {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -720px;
+}
+
+.flair-superPusheenicorn {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -750px;
+}
+
+.flair-writingPusheen {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -780px;
+}
